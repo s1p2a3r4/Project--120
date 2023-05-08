@@ -1,0 +1,44 @@
+body{
+    padding-top: 30px;
+    background-color: rgb(193, 237, 253);
+}
+
+#heading{
+    color: rgb(252, 123, 123);
+}
+
+#mobile_net{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(114, 114, 255);
+    border-radius: 10px;
+}
+
+.images_test{
+    width: 900px;
+    height: 500px;
+    padding: 20px;
+    background-color:rgb(243, 184, 209);
+    border-radius: 20px;
+}
+
+.h5_all{
+    padding-left: 20px;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    float: center;
+}
+
+.image_all{
+    width: 300;
+    height: 450;
+    border-radius: 20px;
+    float: left;
+}
+
+#google_lens_pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
